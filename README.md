@@ -1,4 +1,4 @@
-# HealthInsight — launch site
+# HealthInsight — Pre-launch Landing Page
 
 Provisioned automatically by **Vigil** — your AI cofounder.
 
